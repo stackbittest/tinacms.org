@@ -1,9 +1,9 @@
 ---
-title: 2020-06-15 Release Notes
+title: I updated this blog post.  2020-06-15 Release Notes
 date: '2020-06-14T21:00:00-03:00'
 author: Nolan Phillips
 ---
-This week we've continued down the road of taking Inline Editing to the next level. Here's a quick video we put together demonstrating what's possible using **TinaCMS Inline Editing:**
+How cool to update a blog post.  This week we've continued down the road of taking Inline Editing to the next level. Here's a quick video we put together demonstrating what's possible using **TinaCMS Inline Editing:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qGz0cP_DSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Improvements
 
 Bug Fixes
 
-* Fixed click event handling in the Settings modal. This fixed an issue that broke the Toggle Field. 
+* Fixed click event handling in the Settings modal. This fixed an issue that broke the Toggle Field.
 * In the Settings modal the Block and Group stay within the modal
 
 ### react-tinacms-editor
